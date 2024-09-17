@@ -10,3 +10,7 @@ The GitHub Page of the Bavarian International School Machine Learning Reading Gr
 6. For 29.10.2024: [Retrieval Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401)
 
 (More papers to be added)
+
+# Contributing
+Contributions are very welcome!
+To add papers/source code, create a PR and it should get reviewed within a few days
