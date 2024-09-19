@@ -9,6 +9,7 @@ The GitHub Page of the Bavarian International School Machine Learning Reading Gr
 | `15.10.2024` | [An Image is worth 16x16 words](https://arxiv.org/abs/2010.11929)                                                                    | ❌   |
 | `22.10.2024` | [LoRa: Low-Rank adaptation of Large Language models](https://arxiv.org/pdf/2106.09685)                                               | ❌   |
 | `29.10.2024` | [Retrieval Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401)                                 | ❌   |
+| `12.11.2024` | [A Tutorial on Bayesian Optimization](https://arxiv.org/pdf/1807.02811)                                                              | ❌   |
 
 (More papers to be added)
 
